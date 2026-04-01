@@ -1,5 +1,8 @@
 # Sales Analysis Project
+## 📊 Dashboard Preview
 
+### Sales Overview
+![Sales Dashboard](images/dashboard.png)
 ## Description
 This project features a dashboard in Excel designed to make data analysis easy and intuitive. It provides visualizations and tools to analyze sales data efficiently.
 
